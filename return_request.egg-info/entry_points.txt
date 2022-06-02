@@ -1,3 +1,0 @@
-[saleor.plugins]
-return_request = return_request.plugin:ReturnRequestPlugin
-
